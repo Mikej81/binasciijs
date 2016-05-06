@@ -1,0 +1,16 @@
+{
+  "name": "binasciijs",
+  "version": "0.0.1",
+  "description": "binasciijs is a port of python binascii, to support migrating code from python to javascript. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Binary",
+    "ASCII",
+    "Hex"
+  ],
+  "author": "Michael Coleman <stumpj@gmail.com>",
+  "license": "ISC"
+}
